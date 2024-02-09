@@ -1,0 +1,25 @@
+# Custom Adlist by peiki94
+# Date: 09.02.2024 16:26 (GMT +1)
+
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+fw.adsafeprotected.com
+static.adsafeprotected.com
+dt.adsafeprotected.com
+ad.doubleclick.net
+ade.googlesyndication.com
+www.adtech.yahooinc.com
+www.advertising.yahooinc.com
+searchads.apple.com
+partnerads-test.ysm.yahoo.net
+www6.smartadserver.com
+itx5.smartadserver.com
+encrypted-tbn1.gstatic.com
+adservice.google.com
+ad-delivery.net
+adservice.google.de
+securepubads.g.doubleclick.net
+cdn.static.zdbb.net
+c.amazon-adsystem.com
+ib.adnxs.com
+
