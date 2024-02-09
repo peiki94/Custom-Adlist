@@ -22,4 +22,21 @@ securepubads.g.doubleclick.net
 cdn.static.zdbb.net
 c.amazon-adsystem.com
 ib.adnxs.com
+rtb-csync.smartadserver.com
+dt.adsafeprotected.com
+ads.servenobid.com
+sync.adkernel.com   
+ads.pubmatic.com
+pubads.g.doubleclick.net
+seg.ad.gt
+ih.adscale.de
+ib.adnxs.com
+sb.scorecardresearch.com
+securepubads.g.doubleclick.net
+c.amazon-adsystem.com
+config.aps.amazon-adsystem.com
+aax.amazon-adsystem.com
+ids.ad.gt
+aax-eu.amazon-adsystem.com
+
 
