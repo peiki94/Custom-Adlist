@@ -38,5 +38,5 @@ config.aps.amazon-adsystem.com
 aax.amazon-adsystem.com
 ids.ad.gt
 aax-eu.amazon-adsystem.com
-
-
+ad-delivery.net
+alb.reddit.com
